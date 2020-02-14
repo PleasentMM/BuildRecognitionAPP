@@ -1,0 +1,6 @@
+ext {
+    retrofitVersion = '2.4.0'
+    okhttp3LogVersion = '3.4.1'
+    retrofitConvertGsonVersion = '2.3.0'
+    gsonVersion = '2.7'
+}
